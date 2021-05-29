@@ -6,6 +6,13 @@ git commit -m "Up date a new file"
 git remote add origin https://github.com/haivt99/training_git
 git push -u origin master
 
+# Đã sử dụng trước đó
+git pull origin master
+(edit file)
+git add nameFile
+git commit -m "Change something"
+git push
+
 # Clone code về, edit rồi push lên
 git init
 git clone https://github.com/haivt99/training_git
