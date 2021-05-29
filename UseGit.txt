@@ -1,3 +1,4 @@
+DONE!!!
 # Lần đầu sử dụng
 git init
 git status
