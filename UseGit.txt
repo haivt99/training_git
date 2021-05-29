@@ -14,6 +14,13 @@ git add nameFile
 git commit -m "Change something"
 git push
 
+# Đã sử dụng trước đó, muốn tạo 1 nhánh mới để đẩy code lên
+git add.
+git commit -m "update"
+git checkout -b nameBranch
+git remote add origin https://github.com/haivt99/training_git
+git push -u origin nameBranch
+
 # Clone code về, edit rồi push lên
 git init
 git clone https://github.com/haivt99/training_git
