@@ -1,4 +1,4 @@
-DONE!!! 29/05/2021
+DONE!!! 29/05/2021 - OK
 # Lần đầu sử dụng
 git init
 git status
